@@ -29,7 +29,7 @@ onBeforeMount(() => {
     getMe()
 })
 
-const sidebarActive = ref(true)
+const sidebarActive = ref(false)
 const showSidebarMainLinks = ref(true)
 const showSidebarAdminLinks = ref(true)
 

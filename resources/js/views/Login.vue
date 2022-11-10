@@ -52,7 +52,7 @@ export default {
             }
 
             axios
-                .post('/api/auth/login/', {
+                .post('/api/auth/login', {
                     email: this.authData.email,
                     password: this.authData.password
                 })

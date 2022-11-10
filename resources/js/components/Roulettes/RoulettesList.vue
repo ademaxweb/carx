@@ -18,7 +18,7 @@
                     >
                         <item-card-block>
                             <div class="item_card__element item_card__image">
-                                <img src="http://127.0.0.1:8000/storage/images/no_image_260_x_200.jpg" alt="">
+                                <img src="https://ademaxweb.ru/storage/images/no_image_1920_x_1080.jpg" alt="">
                             </div>
                         </item-card-block>
                         <item-card-block>

@@ -78,9 +78,6 @@ const openRoulette = async () => {
                     <div class="info_block__group__elem">
                         <h1>{{roulette.name}}</h1>
                     </div>
-                    <div class="info_block__group__elem">
-<!--                        <router-link :to="{name: 'index'}" class="link"><h2>{{roulette.brand.name}}</h2></router-link>-->
-                    </div>
                 </div>
 
                 <div class="info_block__group group-align-right">
